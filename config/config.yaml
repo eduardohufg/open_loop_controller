@@ -1,0 +1,9 @@
+/path_generator:
+  ros__parameters:
+    point_list: "[ [0.0, 1.0], [1.0, 1.0], [2.0, 2.0], [3.0, 3.0], [4.0, 4.0] ]"
+
+/tracker_points:
+  ros__parameters:
+    robot_pose: [0.0, 0.0, 0.0]
+    robot_speed: [0.2, 0.4]
+    
